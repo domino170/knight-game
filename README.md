@@ -27,3 +27,7 @@ The game requires a desktop keyboard. It runs entirely in the browser; no backen
 `src/main.ts` contains the compact game state, input, simulation, and rendering. `src/style.css` styles the surrounding page. Gameplay values are defined close to the small functions that use them.
 
 GitHub repository: https://github.com/domino170/knight-game
+
+## Version 2
+
+Richer forest colors, layered characters, walking and breathing animations, fluttering cape, dragon wings and tail, shield glow, and drifting fireflies. Knight health appears as labeled hearts with a numeric count and an overhead health bar. Rescuing Elowen starts a 3.2-second celebration: she jumps and sends floating hearts, then the victory screen appears. Movement and combat stop during the celebration. Restart resets the whole sequence. The next stage is reserved for a future version.

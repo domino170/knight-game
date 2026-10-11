@@ -31,3 +31,9 @@ GitHub repository: https://github.com/domino170/knight-game
 ## Version 2
 
 Richer forest colors, layered characters, walking and breathing animations, fluttering cape, dragon wings and tail, shield glow, and drifting fireflies. Knight health appears as labeled hearts with a numeric count and an overhead health bar. Rescuing Elowen starts a 3.2-second celebration: she jumps and sends floating hearts, then the victory screen appears. Movement and combat stop during the celebration. Restart resets the whole sequence. The next stage is reserved for a future version.
+
+## Version 3
+
+Two stages: Rosewood Grove and the stone courtyard of Emberkeep Castle. Complete the first rescue celebration and select Next stage. Each stage starts with three hearts; Restart retries the current stage. Small green biters have 3 health and approach to bite. Large orange fire dragons have 5 health, bite at close range, and aim fireballs every 2.2 seconds within range. Dodge fireballs or face them while holding Shift; rocks and castle walls stop them.
+
+In Emberkeep, defeat all four dragons and break the gate with five directional sword hits. The castle walls and intact gate block movement. Enter through the broken gate to reach Elowen. Her jumping and heart celebration precedes the final victory screen. Play again after the final victory starts at stage one.
